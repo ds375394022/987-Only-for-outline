@@ -17,7 +17,7 @@
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
     "DownloadLinkUpdate": "https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
-    "DownloadLinkTesting": https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
+    "DownloadLinkTesting": "https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   }
 ]
