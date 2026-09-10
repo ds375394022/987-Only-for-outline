@@ -9,15 +9,15 @@
     "MinimumDalamudVersion": "15.0.0.2",
     "AssemblyVersion": "1.7.1.0",
     "TestingAssemblyVersion": "1.7.1.0",
-    "RepoUrl": "https://github.com/ds375394022/Glamourer-SP",
+    "RepoUrl": "https://github.com/noidontwantowork/Glamourer-SP",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
-    "DownloadLinkUpdate": "https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
-    "DownloadLinkTesting": "https://github.com/ds375394022/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
+    "DownloadLinkInstall": "https://github.com/noidontwantowork/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
+    "DownloadLinkUpdate": "https://github.com/noidontwantowork/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
+    "DownloadLinkTesting": "https://github.com/noidontwantowork/Glamourer-SP/releases/download/Glamourer-SP/Glamourer-SP.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   }
 ]
